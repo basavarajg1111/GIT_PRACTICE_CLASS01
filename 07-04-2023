@@ -1,0 +1,6 @@
+git practice for add,commit,push
+
+
+a) git add --all
+b) git commit -m "my_message"
+c) git push
